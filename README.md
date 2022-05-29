@@ -1,4 +1,4 @@
-<a href="#"><img width="80%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm goutham</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Learning Full stack web devlopment
 
-- 🌱 I’m currently learning ** MERN STACK.**
+- 🌱 I’m currently learning ** MERN STACK**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -23,7 +23,7 @@
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"  width="80" height="80"/> </a> 
        <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"  width="80" height="80"/> </a> 
          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="80" height="80"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"  width="80" height="80"/> </a>>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"  width="80" height="80"/> </a>
         <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"  width="80" height="80"/> </a>
          <a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank"> <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" alt="jenkins" width="80" height="80"/> </a>
         <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"  width="80" height="80"/> </a> 
