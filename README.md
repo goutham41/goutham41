@@ -1,4 +1,4 @@
-<img width="400px%" height="190px" margin-left="300px" src="https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png" />
+<img width="400px%" height="190px" style="display:flex;margin:auto;justifty-content:center" src="https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png" />
 
 
 <h1 align="center">Hi <img width="50px" height="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm goutham</h1>
