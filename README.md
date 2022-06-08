@@ -1,4 +1,4 @@
-<p align="center"><img width="50%" height="210px"  src="https://tecnologia-innovadora.com/wp-content/uploads/2022/02/que-hacer-para-convertirse-en-ingeniero-en-sistemas-desarrollador-de-sistemas-computacionales-programacion-informatica.gif" /></P>
+<p align="center"><img width="35%" height="230px"  src="https://tecnologia-innovadora.com/wp-content/uploads/2022/02/que-hacer-para-convertirse-en-ingeniero-en-sistemas-desarrollador-de-sistemas-computacionales-programacion-informatica.gif" /></P>
 
 
 <h1 align="center">Hi <img width="50px" height="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm goutham</h1>
