@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Learning Full stack web devlopment
+- 🔭 I’m currently working on Learning Full stack web development
 
 - 🌱 I’m currently learning ** MERN STACK**
 
