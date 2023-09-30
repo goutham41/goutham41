@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%" alt="Coding GIF"/>
-</div>
 
-<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Goutham</h1>
+
+<h1 align="center">Hello, I'm Goutham! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">Full Stack Developer | AWS Enthusiast | Tech Explorer</h3>
 
@@ -34,9 +32,9 @@
 
 <p align="center">
   <b>YORE Care App:</b> Streamlined healthcare processes for NHA integration. <br/>
-  Download the app: [Android](https://play.google.com/store/apps/details?id=com.yorecareapp) | [iOS](https://apps.apple.com/in/app/yore-care/id6451338874) <br/>
-  Website: [Yore Care](http://yore.care/) <br/>
-  <b>Personal Portfolio Website:</b> Explore my portfolio: [Portfolio](https://goutham-portpolio.netlify.app/) <br/>
+  <a href="https://play.google.com/store/apps/details?id=com.yorecareapp">Download on Android</a> | <a href="https://apps.apple.com/in/app/yore-care/id6451338874">Download on iOS</a> <br/>
+  <b>Website:</b> <a href="http://yore.care/">Yore Care</a> <br/>
+  <b>Personal Portfolio Website:</b> Explore my portfolio at <a href="https://goutham-portpolio.netlify.app/">Portfolio</a> <br/>
   <!-- Add more projects as needed -->
 </p>
 
