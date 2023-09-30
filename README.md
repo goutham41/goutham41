@@ -2,15 +2,21 @@
   <img src="https://tecnologia-innovadora.com/wp-content/uploads/2022/02/que-hacer-para-convertirse-en-ingeniero-en-sistemas-desarrollador-de-sistemas-computacionales-programacion-informatica.gif" width="35%" height="230px"/>
 </div>
 
-<h1 align="center">Hi there! <img width="50px" height="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Goutham</h1>
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Goutham</h1>
 
-<h3 align="center">Passionate Full Stack Developer</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
 <p align="center">
   🎓 Graduated in Computer Science <br/>
-  🚀 Aspiring Software Engineer <br/>
-  💻 Full Stack Developer at Advance Digital Solutions <br/>
-  🌱 Always learning and exploring new technologies
+  💼 Full Stack Developer at Advance Digital Solutions <br/>
+  🌱 Always learning and exploring new technologies <br/>
+  🚀 Passionate about delivering efficient and high-quality solutions
+</p>
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  Completed my graduation in Computer Science from Bhadhuka Degree College. I am an aspiring Full Stack Developer, passionate about programming and web development. My journey into the world of coding began at Masai School, where I honed my skills and gained expertise in various technologies.
 </p>
 
 <h2 align="center">Skills & Tools</h2>
@@ -28,6 +34,22 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" height="55"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="55" height="55"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="55" height="55"/>
+</p>
+
+<h2 align="center">Projects</h2>
+
+<p align="center">
+  <b>YORE Care App:</b> Developed an app integrated with NHA for streamlined healthcare processes. <br/>
+  <b>Personal Portfolio Website:</b> Designed and built my portfolio website to showcase my skills and projects. <br/>
+
+</p>
+
+<h2 align="center">Experience</h2>
+
+<p align="center">
+  <b>Full Stack Developer | Advance Digital Solutions</b> <br/>
+  Working on cutting-edge projects, utilizing technologies like AWS, React Native, and more to deliver innovative solutions.
 </p>
 
 <h2 align="center">Let's Connect!</h2>
