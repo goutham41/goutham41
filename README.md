@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://tecnologia-innovadora.com/wp-content/uploads/2022/02/que-hacer-para-convertirse-en-ingeniero-en-sistemas-desarrollador-de-sistemas-computacionales-programacion-informatica.gif" width="50%" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%" alt="Coding GIF"/>
 </div>
 
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Goutham</h1>
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Goutham</h1>
 
 <h3 align="center">Full Stack Developer | AWS Enthusiast | Tech Explorer</h3>
 
@@ -10,7 +10,6 @@
   🎓 Graduated in Computer Science <br/>
   💻 Full Stack Developer at Advance Digital Solutions <br/>
   🚀 Passionate about creating seamless user experiences <br/>
-  🌱 Learning React Native, AWS Services, and Socket.io
 </p>
 
 <h2 align="center">About Me</h2>
