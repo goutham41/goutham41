@@ -22,34 +22,30 @@
 <h2 align="center">Skills & Tools</h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="55" height="55"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="55" height="55"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="55" height="55"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="55" height="55"/>
-  <img src="https://img.icons8.com/color/48/000000/redux.png" width="55" height="55"/>
   <img src="https://avatars.githubusercontent.com/u/8908513?s=255&v=4" width="55" height="55"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="55" height="55"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="55" height="55"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="55" height="55"/>
+  <img src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" width="55" height="55"/>
+  <img src="https://img.icons8.com/color/48/000000/socket-io.png" width="55" height="55"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="55" height="55"/>
 </p>
 
 <h2 align="center">Projects</h2>
 
 <p align="center">
   <b>YORE Care App:</b> Developed an app integrated with NHA for streamlined healthcare processes. <br/>
+  <b>WhatsApp Business API Integration:</b> Integrated WhatsApp Business API for seamless communication in businesses. <br/>
   <b>Personal Portfolio Website:</b> Designed and built my portfolio website to showcase my skills and projects. <br/>
-
+  <!-- Add more projects as needed -->
 </p>
 
 <h2 align="center">Experience</h2>
 
 <p align="center">
   <b>Full Stack Developer | Advance Digital Solutions</b> <br/>
-  Working on cutting-edge projects, utilizing technologies like AWS, React Native, and more to deliver innovative solutions.
+  Working on cutting-edge projects, utilizing technologies like AWS, React Native, Socket.io, and more to deliver innovative solutions.
 </p>
 
 <h2 align="center">Let's Connect!</h2>
