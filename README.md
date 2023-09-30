@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%" alt="Coding GIF"/>
-</div>
+//<div align="center">
+//  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%" alt="Coding GIF"/>
+//</div>
 
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Goutham</h1>
 
@@ -26,7 +26,7 @@
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="55" height="55"/>
-  <img src="https://img.icons8.com/color/48/000000/socket-io.png" width="55" height="55"/>
+  <img src="https://img.icons8.com/color/48/000000/socket-io.png width="55" height="55"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" width="55" height="55"/>
 </p>
 
