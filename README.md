@@ -24,7 +24,6 @@
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="55" height="55"/>
-  <img src="https://img.icons8.com/color/48/000000/socket-io.png" width="55" height="55"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" width="55" height="55"/>
 </p>
 
