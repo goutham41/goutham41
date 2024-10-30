@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I'm Goutham! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">Full Stack Developer | AWS Enthusiast | Tech Explorer</h3>
+<h3 align="center">Full Stack Developer  | Tech Explorer</h3>
 
 <p align="center">
   🎓 Graduated in Computer Science <br/>
@@ -32,10 +32,14 @@
 <p align="center">
   <b>YORE Care App:</b> Streamlined healthcare processes for NHA integration. <br/>
   <a href="https://play.google.com/store/apps/details?id=com.yorecareapp">Download on Android</a> | <a href="https://apps.apple.com/in/app/yore-care/id6451338874">Download on iOS</a> <br/>
-  <b>Website:</b> <a href="http://yore.care/">Yore Care</a> <br/>
-  <b>Personal Portfolio Website:</b> Explore my portfolio at <a href="https://goutham-portpolio.netlify.app/">Portfolio</a> <br/>
-  <!-- Add more projects as needed -->
+  <b>Website:</b> <a href="http://yore.care/">Yore Care</a> <br/><br/>
+
+  <b>Sarkari Job Samachar:</b> A comprehensive government job portal providing the latest updates on public sector jobs across India. <br/>
+  <b>Website:</b> <a href="https://sarkarijobsamachar.com/">Sarkari Job Samachar</a> <br/><br/>
+
+  <b>Personal Portfolio Website:</b> Explore my portfolio at <a href="https://portfolio-goutham.vercel.app/">Portfolio</a> <br/>
 </p>
+
 
 <h2 align="center">Let's Connect!</h2>
 
