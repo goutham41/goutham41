@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="55" height="55"/>
-  <img src="https://avatars.githubusercontent.com/u/8908513?s=255&v=4" width="55" height="55"/>
+<!--   <img src="https://avatars.githubusercontent.com/u/8908513?s=255&v=4" width="55" height="55"/> -->
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="55" height="55"/>
