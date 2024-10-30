@@ -13,6 +13,8 @@
 <h2 align="center">About Me</h2>
 <p align="center" style="max-width: 600px; margin: auto;">
   Hi, I'm Goutham, a dedicated Full Stack Developer with over 2 years of experience in building innovative and scalable web applications. I thrive on solving complex problems and creating interactive digital experiences. My journey into the world of technology started during my college days and has been evolving ever since.
+  <br/><br/>
+  📄 <a href="https://drive.google.com/file/d/1c4QCJgN_5IsLXmkyAE10cmQawYFaowmP/view?usp=sharing" target="_blank"><strong>View My Resume</strong></a>
 </p>
 
 <hr/>
