@@ -56,7 +56,7 @@
 <h2>Let's Connect!</h2>
 <p>
   <a href="https://www.linkedin.com/in/goutham141/" style="margin-right: 15px;"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="mailto:akkaladevigoutham@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/></a>
+  <a href="mailto:41goutham@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/></a>
 </p>
 
 <p>
