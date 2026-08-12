@@ -47,7 +47,7 @@
   <br/>
 
   <p>
-    <strong>Personal Portfolio Website:</strong> Explore my portfolio at <a href="https://portfolio-goutham.vercel.app/">Portfolio</a>
+    <strong>Personal Portfolio Website:</strong> Explore my portfolio at <a href="https://goutham-akkaladevi.netlify.app/">Portfolio</a>
   </p>
 </div>
 
